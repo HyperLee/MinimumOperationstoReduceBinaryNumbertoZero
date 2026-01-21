@@ -1,0 +1,17 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": ".NET Launch (console)",
+      "type": "coreclr",
+      "request": "launch",
+      "preLaunchTask": "build",
+      "program": "${workspaceFolder}/MinimumOperationstoReduceBinaryNumbertoZero/bin/Debug/net10.0/MinimumOperationstoReduceBinaryNumbertoZero.dll",
+      "args": [],
+      "cwd": "${workspaceFolder}/MinimumOperationstoReduceBinaryNumbertoZero",
+      "console": "integratedTerminal",
+      "stopAtEntry": false,
+      "internalConsoleOptions": "neverOpen"
+    }
+  ]
+}
