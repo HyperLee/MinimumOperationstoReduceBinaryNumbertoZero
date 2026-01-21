@@ -260,3 +260,4 @@ Console.WriteLine(result); // 輸出: 2
 
 - [位元運算技巧](https://leetcode.com/problems/sum-of-two-integers/solutions/84278/a-summary-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently/)
 - [二進位數學基礎](https://en.wikipedia.org/wiki/Binary_number)
+- [Leetcode 2571. Minimum Operations to Reduce an Integer to 0](https://leetcode.com/problems/minimum-operations-to-reduce-an-integer-to-0/description/)
